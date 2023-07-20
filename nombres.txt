@@ -1,12 +1,10 @@
-<<<<<<< HEAD
 Nombres de la clase
-
 Darwin Manzano
 Juan
 Maryuri
 Isis
-=======
 Julio
 Martin
 Luis
->>>>>>> nombres
+Pedro
+Carlos
